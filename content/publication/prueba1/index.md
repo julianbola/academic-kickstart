@@ -6,10 +6,10 @@ summary: Recientemente este es el abstract Recientemente este es el abstract Rec
 draft: false
 featured: false
 publication: International Journal of Believes
-publication_types: 2
+publication_type: 2
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-Incluido pub_types2. Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d
+Incluido pub_types2. ahora en singular. Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d Recientemente me han explicado que los coches inflables van a ser habituales en nuestr avida. Y yo no me lo creo, la verda.d
