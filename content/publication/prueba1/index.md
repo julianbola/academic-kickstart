@@ -6,6 +6,7 @@ summary: Recientemente este es el abstract Recientemente este es el abstract Rec
 draft: false
 featured: false
 publication: International Journal of Believes
+publication_types: 2
 image:
   filename: featured
   focal_point: Smart
