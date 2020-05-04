@@ -9,6 +9,7 @@ featured: false
 publication: International Journal of Believes
 publication_types: 2
 authors: Julian Bola, Julio Bolo
+url_pdf: https://www.boe.es/boe/dias/2020/03/20/pdfs/BOE-A-2020-3898.pdf
 image:
   filename: featured
   focal_point: Smart
