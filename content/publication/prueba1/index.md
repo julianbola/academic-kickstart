@@ -7,6 +7,7 @@ summary: Recientemente me han explicado que los coches inflables van a ser
 draft: false
 featured: false
 publication: International Journal of Believes
+publication_types: 2
 authors: Julian Bola, Julio Bolo
 image:
   filename: featured
