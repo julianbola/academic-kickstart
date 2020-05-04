@@ -2,8 +2,7 @@
 title: No me creo lo que me han contado
 subtitle: Sobre la novedad de los coches inflables
 date: 2020-04-29T13:19:23.058Z
-summary: Recientemente tt me han explicado que los coches inflables van a ser
-  habituales en nuestr avida. Y yo no me lo creo, la verda.d
+summary: Recientemente este es el abstract Recientemente este es el abstract Recientemente este es el abstract Recientemente este es el abstract Recientemente este es el abstract Recientemente este es el abstract 
 draft: false
 featured: false
 publication: International Journal of Believes
