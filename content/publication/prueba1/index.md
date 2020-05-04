@@ -7,6 +7,7 @@ draft: false
 featured: false
 publication: International Journal of Believes
 url_pdf: https://www.boe.es/boe/dias/2020/03/20/pdfs/BOE-A-2020-3898.pdf
+url_researchgate: https://www.researchgate.net/publication/334371302_A_Framework_of_Longitudinal_Study_to_Understand_Determinants_of_Actual_Use_of_the_Portable_Health_Clinic_System
 publication_type: 2
 image:
   filename: featured
