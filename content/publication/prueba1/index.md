@@ -7,7 +7,6 @@ draft: false
 featured: false
 url_pdf: https://www.boe.es/boe/dias/2020/03/20/pdfs/BOE-A-2020-3898.pdf
 publication: International Journal of 2 Believe
-authors: admin
 image:
   filename: featured
   focal_point: Smart
