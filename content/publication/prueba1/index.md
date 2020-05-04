@@ -6,6 +6,7 @@ summary: Recientemente me han explicado que los coches inflables van a ser
   habituales en nuestr avida. Y yo no me lo creo, la verda.d
 draft: false
 featured: false
+publication: International Journal of Believes
 image:
   filename: featured
   focal_point: Smart
